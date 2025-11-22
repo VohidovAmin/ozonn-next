@@ -44,7 +44,7 @@ export default function Search() {
             </div>
             <div className="search-btn">
                 <button onClick={() => updateFilter(search)}></button>
-            </div>
+            </div>  
         </div>
     )
 }
